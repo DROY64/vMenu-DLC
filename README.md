@@ -1,4 +1,4 @@
-# vMenu for SRP
+# vMenu for RaceLife
 vMenu, but modified for our community's needs.
 
 <sub><sup>We take absolutely no credit for this resource. Thanks to Vespura et. al for their wonderful work on vMenu.</sup></sub>
