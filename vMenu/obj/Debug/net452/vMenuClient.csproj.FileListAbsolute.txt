@@ -1,0 +1,11 @@
+C:\Users\leona\Documents\vMenu-master\vMenu\obj\Debug\net452\vMenuClient.csproj.AssemblyReference.cache
+C:\Users\leona\Documents\vMenu-master\vMenu\obj\Debug\net452\vMenuClient.net.g.resources
+C:\Users\leona\Documents\vMenu-master\vMenu\obj\Debug\net452\vMenuClient.Properties.Resources.resources
+C:\Users\leona\Documents\vMenu-master\vMenu\obj\Debug\net452\vMenuClient.csproj.GenerateResource.cache
+C:\Users\leona\Documents\vMenu-master\vMenu\obj\Debug\net452\vMenuClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\Documents\vMenu-master\vMenu\obj\Debug\net452\vMenuClient.AssemblyInfoInputs.cache
+C:\Users\leona\Documents\vMenu-master\vMenu\obj\Debug\net452\vMenuClient.AssemblyInfo.cs
+C:\Users\leona\Documents\vMenu-master\vMenu\obj\Debug\net452\vMenuClient.csproj.CoreCompileInputs.cache
+C:\Users\leona\Documents\build\net452\vMenuClient.net.dll
+C:\Users\leona\Documents\vMenu-master\vMenu\obj\Debug\net452\vMenuClient.csproj.CopyComplete
+C:\Users\leona\Documents\vMenu-master\vMenu\obj\Debug\net452\vMenuClient.net.dll

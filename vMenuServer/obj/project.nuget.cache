@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8/ZxGIittX98Pkm+5f6MK7b7KADU6hJqYJybH7f1IxMY26JM2q0QXU5uhAd5H7c+0JeyAEo+HA2Zid/ScVXDcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leona\\Documents\\vMenu-master\\vMenuServer\\vMenuServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leona\\.nuget\\packages\\citizenfx.core.server\\1.0.5049\\citizenfx.core.server.1.0.5049.nupkg.sha512"
+  ],
+  "logs": []
+}
